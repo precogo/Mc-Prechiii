@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrCSammy
-- 👀 I’m interested in ... All programing languages
+- 👀 I’m interested in ... All programming languages
 - 🌱 I’m currently learning git and github
 - 💞️ I’m looking to collaborate on ...all
 - 📫 How to reach me ... please mail
